@@ -1,0 +1,149 @@
+﻿{
+  "a-sync-waterfall@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hydiak/a-sync-waterfall",
+    "publisher": "Gleb Khudyakov",
+    "url": "https://github.com/hydiak/a-sync-waterfall",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\a-sync-waterfall",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\a-sync-waterfall\\LICENSE"
+  },
+  "anymatch@3.1.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/micromatch/anymatch",
+    "publisher": "Elan Shanker",
+    "url": "https://github.com/es128",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\anymatch",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\anymatch\\LICENSE"
+  },
+  "asap@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kriskowal/asap",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\asap",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\asap\\LICENSE.md"
+  },
+  "binary-extensions@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/binary-extensions",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\binary-extensions",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\binary-extensions\\license"
+  },
+  "braces@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/braces",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\braces",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\braces\\LICENSE"
+  },
+  "chokidar@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/chokidar",
+    "publisher": "Paul Miller",
+    "url": "https://paulmillr.com",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\chokidar",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\chokidar\\LICENSE"
+  },
+  "commander@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\commander",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\commander\\LICENSE"
+  },
+  "fill-range@7.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/fill-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\fill-range",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\fill-range\\LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\glob-parent",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\glob-parent\\LICENSE"
+  },
+  "is-binary-path@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-binary-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\is-binary-path",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\is-binary-path\\license"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\is-extglob",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\is-extglob\\LICENSE"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\is-glob",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\is-glob\\LICENSE"
+  },
+  "is-number@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-number",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\is-number",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\is-number\\LICENSE"
+  },
+  "normalize-path@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/normalize-path",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\normalize-path",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\normalize-path\\LICENSE"
+  },
+  "nunjucks@3.2.4": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/mozilla/nunjucks",
+    "publisher": "James Long",
+    "email": "longster@gmail.com",
+    "path": "D:\\GitHub\\nunjucks",
+    "licenseFile": "D:\\GitHub\\nunjucks\\LICENSE"
+  },
+  "picomatch@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\picomatch",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\picomatch\\LICENSE"
+  },
+  "readdirp@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\readdirp",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\readdirp\\LICENSE"
+  },
+  "to-regex-range@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/to-regex-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "D:\\GitHub\\nunjucks\\node_modules\\to-regex-range",
+    "licenseFile": "D:\\GitHub\\nunjucks\\node_modules\\to-regex-range\\LICENSE"
+  }
+}
+
